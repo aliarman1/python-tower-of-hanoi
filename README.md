@@ -2,8 +2,6 @@
 
 A graphical implementation of the classic Tower of Hanoi puzzle game using Python and Tkinter.
 
-![Tower of Hanoi Game](screenshot.png)
-
 ## Description
 
 The Tower of Hanoi is a classic mathematical puzzle that consists of three rods and a number of disks of different sizes which can slide onto any rod. The puzzle starts with the disks neatly stacked in ascending order of size on one rod, creating a conical shape. The objective is to move the entire stack to another rod, following these rules:
